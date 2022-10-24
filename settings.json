@@ -1,0 +1,62 @@
+{
+  "workbench.editor.showTabs": true,
+  "editor.minimap.enabled": false,
+  "editor.detectIndentation": false,
+  "editor.fontWeight": 300,
+  "editor.hover.delay": 1500,
+  "editor.linkedEditing": true,
+  "editor.tabSize": 2,
+  "editor.wordSeparators": "`~!@%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "explorer.autoReveal": false,
+  "explorer.compactFolders": false,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/node_modules/*/**": true,
+    "**/.hg/store/**": true,
+    "**/coverage/**": true,
+    "**/.vscode/**": true,
+    "**/dist/**": true
+  },
+  "javascript.preferences.quoteStyle": "single",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.preferences.quoteStyle": "single",
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.iconTheme": "material-icon-theme",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "eslint.migration.2_x": "off",
+  "redhat.telemetry.enabled": true,
+  "editor.formatOnSave": true,
+  "tabnine.experimentalAutoImports": true,
+  "vim.highlightedyank.enable": true,
+  "vim.searchHighlightColor": "rgba(250, 240, 170, 0.5)",
+  "vim.useSystemClipboard": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "ruby.intellisense": "rubyLocate",
+  "editor.inlineSuggest.enabled": true,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f"
+  },
+  "blockman.n01LineHeight": 0,
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "window.zoomLevel": -1
+}
